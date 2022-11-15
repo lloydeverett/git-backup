@@ -1,0 +1,5 @@
+plumbum==1.7.2
+pyyaml==6.0
+jsonschema==4.16.0
+rich==12.6.0
+
