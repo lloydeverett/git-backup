@@ -9,7 +9,7 @@ A tool quickly hacked together for managing lots of git repositories in one dire
 
 ## Usage
 
-Run a `git_backup.py init` and follow the prompts to set up the repository.
+Run a `git_backup.py init` and follow the prompts to set up the `/repos` directory.
 
 ### Commands
 
